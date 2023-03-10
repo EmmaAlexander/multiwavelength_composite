@@ -1,4 +1,3 @@
-# central_coord_str	cutout_size
-J201801.29-553931.5	2
-J213417.69-533811.1 8
-J205209.57-524745.2 12
+# central_coord_str	cutout_size_arcmin	radio_base_cont_mJy
+J202311-553638	12	0.12
+J202721-551828	6	0.12
